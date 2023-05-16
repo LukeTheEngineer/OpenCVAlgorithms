@@ -11,8 +11,8 @@
 
 
 //Header includes
-#include"SystemConfigurations.hpp"
-#include"ImageProcessing.h"
+#include"headers/SystemConfigurations.hpp"
+#include"headers/ImageProcessing.h"
 
 
 int main() {

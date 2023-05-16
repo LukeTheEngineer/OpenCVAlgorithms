@@ -1,3 +1,5 @@
+#include<iostream>
+
 void ShowLoading(int total) {
     int progress = 0;
     int last_progress = -1;
